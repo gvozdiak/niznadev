@@ -1,0 +1,33 @@
+<?php
+
+$lang['panel_title'] = "L'instruction";
+$lang['add_title'] = "Ajouter Une Instruction";
+$lang['slno'] = "#";
+$lang['instruction_title'] = "Titre";
+$lang['instruction_content'] = "Contenu";
+$lang['instruction_add'] = "Ajouter";
+$lang['action'] = "Action";
+$lang['view'] = "Vue";
+$lang['edit'] = "Modifier";
+$lang['delete'] = "Supprimer";
+$lang['print'] = "Imprimer";
+$lang['pdf_preview'] = "Pdf Aperã§u";
+$lang["mail"] = "Envoyer Pdf Ã  Mail";
+$lang['add_class'] = "Ajouter Instruction";
+$lang['update_class'] = "Mise Ã€ Jour Instruction";
+$lang['to'] = "Pour";
+$lang['subject'] = "Sujet";
+$lang['message'] = "Message";
+$lang['send'] = "Envoyer";
+$lang['mail_to'] = "L' De Terrain Est Requis.";
+$lang['mail_valid'] = "L' De Terrain Doit Contient Une Valide E-mail Adresse.";
+$lang['mail_subject'] = "Le Sujet Terrain Est Requis.";
+$lang['mail_success'] = "E-mail Envoyer Avec Succã¨s,";
+$lang['mail_error'] = "Oups, E-mail Pas Envoyer,";
+$lang['instruction_to'] = "Pour";
+$lang['instruction_subject'] = "Sujet";
+$lang['instruction_message'] = "Message";
+$lang['instruction_instructionID'] = "Enseignement Id";
+$lang['instruction_data_not_found'] = "N''t   Donnã©es.";
+$lang['instruction_permissionmethod'] = "Mã©thode Pas Permis";
+$lang['instruction_permission'] = "Autorisation Pas Permis";

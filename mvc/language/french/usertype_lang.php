@@ -1,0 +1,11 @@
+<?php
+
+$lang['panel_title'] = "Rã´le";
+$lang['add_title'] = "Ajouter Une Rã´le";
+$lang['slno'] = "#";
+$lang['usertype_usertype'] = "Rã´le";
+$lang['action'] = "Action";
+$lang['edit'] = "Modifier";
+$lang['delete'] = "Supprimer";
+$lang['add_usertype'] = "Ajouter Rã´le";
+$lang['update_usertype'] = "Mise Ã€ Jour Rã´le";

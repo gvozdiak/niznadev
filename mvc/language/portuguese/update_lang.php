@@ -1,0 +1,17 @@
+<?php
+
+$lang['panel_title'] = "Atualizaã§ã£o";
+$lang['update_file'] = "Arquivo";
+$lang['update_update'] = "Atualizaã§ã£o";
+$lang['update_update_history'] = "Atualizaã§ã£o Histã³ria";
+$lang['update_slno'] = "#";
+$lang['update_date'] = "Data";
+$lang['update_version'] = "Versã£o";
+$lang['update_status'] = "Estado";
+$lang['update_log'] = "Registo";
+$lang['update_updatelog'] = "Atualizaã§ã£o Log";
+$lang['update_action'] = "Aã§ã£o";
+$lang['update_success'] = "Sucesso";
+$lang['update_failed'] = "Falha";
+$lang['update_file_browse'] = "Arquivo De Procurar";
+$lang['update_clear'] = "Claro";

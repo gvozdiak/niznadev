@@ -1,0 +1,33 @@
+<?php
+
+$lang['panel_title'] = "Instruction";
+$lang['add_title'] = "เพิ่ม A Instruction";
+$lang['slno'] = "#";
+$lang['instruction_title'] = "หัวเรื่อง";
+$lang['instruction_content'] = "เนื้อหา";
+$lang['instruction_add'] = "เพิ่ม";
+$lang['action'] = "การกระทำ";
+$lang['view'] = "มุมมอง";
+$lang['edit'] = "แก้ไข";
+$lang['delete'] = "ลบ";
+$lang['print'] = "การพิมพ์";
+$lang['pdf_preview'] = "เอกสาร Pdf แสดงตัวอย่าง";
+$lang["mail"] = "ส่ง เอกสาร Pdf จะ จดหมาย";
+$lang['add_class'] = "เพิ่ม Instruction";
+$lang['update_class'] = "ปรับปรุง Instruction";
+$lang['to'] = "ต้อง";
+$lang['subject'] = "เรื่อง";
+$lang['message'] = "ข้อความ";
+$lang['send'] = "ส่ง";
+$lang['mail_to'] = "ที่ จะ ส คื ต้องการนะ";
+$lang['mail_valid'] = "";
+$lang['mail_subject'] = "ที่ เรื่อง ส คื ต้องการนะ";
+$lang['mail_success'] = "อีเมล ส่ง เรียบร้อยแล้,";
+$lang['mail_error'] = "เรื่องนี่รู้กันแค่สองคนใช่ไห, ส่งอีเมล ไม่ ส่ง,";
+$lang['instruction_to'] = "ต้อง";
+$lang['instruction_subject'] = "เรื่อง";
+$lang['instruction_message'] = "ข้อความ";
+$lang['instruction_instructionID'] = "Instruction หมายเลข";
+$lang['instruction_data_not_found'] = "ไม่'t มี มี งข้อมูลออกมา";
+$lang['instruction_permissionmethod'] = "วิธีการ ไม่ ได้รับอนุญาต";
+$lang['instruction_permission'] = "ขออนุญาต ไม่ ได้รับอนุญาต";

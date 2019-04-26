@@ -1,0 +1,35 @@
+<?php
+
+$lang['panel_title'] = "الدفع إعدادات";
+$lang['paypal_email'] = "باي بال البريد الإلكتروني";
+$lang['paypal_api_username'] = "باي بال Api اسم المستخدم";
+$lang['paypal_api_password'] = "باي بال Api كلمة المرور";
+$lang['paypal_api_signature'] = "باي بال Api توقيع";
+$lang['paypal_demo'] = "باي بال رمل";
+$lang['paypal_status'] = "باي بال حالة";
+$lang['stripe_secret'] = "الشريط السري";
+$lang['stripe_demo'] = "الشريط Demo";
+$lang['stripe_status'] = "الشريط حالة";
+$lang['payumoney_key'] = "Payumoney مفتاح";
+$lang['payumoney_salt'] = "Payumoney الملح";
+$lang['payumoney_demo'] = "Payumoney Demo";
+$lang['payumoney_status'] = "Payumoney حالة";
+$lang['voguepay_merchant_id'] = "التاجر Id";
+$lang['voguepay_merchant_ref'] = "التاجر مرجع";
+$lang['voguepay_developer_code'] = "المطور كود";
+$lang['voguepay_demo'] = "Demo";
+$lang['voguepay_status'] = "حالة";
+$lang['enable'] = "تمكين";
+$lang['disable'] = "تعطيل";
+$lang['save'] = "حفظ";
+$lang['tab_paypal'] = "باي بال";
+$lang['tab_stripe'] = "الشريط";
+$lang['tab_payumoney'] = "Payumoney";
+$lang['tab_voguepay'] = "Voguepay";
+$lang['update_success'] = "تحديث الناجحة";
+$lang['tab_remita'] = "Remita";
+$lang['remita_demo'] = "Remita Demo";
+$lang['remita_merchant_id'] = "مارشنت Id";
+$lang['remita_servicetypeid'] = "خدمة نوع Id";
+$lang['remita_apikey'] = "Api مفتاح";
+$lang['remita_status'] = "Remita حالة";

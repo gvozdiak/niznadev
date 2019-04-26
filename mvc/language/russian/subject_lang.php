@@ -1,0 +1,29 @@
+<?php
+
+$lang['panel_title'] = "Тема";
+$lang['add_title'] = "Добавить на тему";
+$lang['slno'] = "#";
+$lang['subject_class_name'] = "Класс Название";
+$lang['subject_teacher_name'] = "Учитель Имя";
+$lang['subject_student'] = "Студент";
+$lang['subject_name'] = "Тема Название";
+$lang['subject_author'] = "Теме Автору";
+$lang['subject_code'] = "Теме Код";
+$lang['subject_teacher'] = "Учитель";
+$lang['subject_classes'] = "Класс";
+$lang['subject_type'] = "Тип";
+$lang['subject_optional'] = "Необязательно";
+$lang['subject_mandatory'] = "Обязательным";
+$lang['subject_passmark'] = "Пройти Марк";
+$lang['subject_finalmark'] = "Финал Марка";
+$lang['subject_select_class'] = "Выберите Класс";
+$lang['subject_select_type'] = "Выберите Тип";
+$lang['subject_select_classes'] = "Выберите Класс";
+$lang['subject_select_teacher'] = "Выберите Учителя";
+$lang['subject_select_student'] = "Выберите Студент";
+$lang['action'] = "Действие";
+$lang['view'] = "Вид";
+$lang['edit'] = "Редактировать";
+$lang['delete'] = "Удалить";
+$lang['add_subject'] = "Добавить Теме";
+$lang['update_subject'] = "Обновление Теме";

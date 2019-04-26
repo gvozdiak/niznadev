@@ -1,0 +1,33 @@
+<?php
+
+$lang['panel_title'] = "Instruã§ã£o";
+$lang['add_title'] = "Adicionar Um De Instruã§ã£o";
+$lang['slno'] = "#";
+$lang['instruction_title'] = "Tã­tulo";
+$lang['instruction_content'] = "Conteãºdo";
+$lang['instruction_add'] = "Adicionar";
+$lang['action'] = "Aã§ã£o";
+$lang['view'] = "Visualizar";
+$lang['edit'] = "Editar";
+$lang['delete'] = "Apagar";
+$lang['print'] = "Imprimir";
+$lang['pdf_preview'] = "Pdf Prã©-visualizaã§ã£o";
+$lang["mail"] = "Enviar Pdf Para Correio";
+$lang['add_class'] = "Adicionar De Instruã§ã£o";
+$lang['update_class'] = "Atualizaã§ã£o Instruã§ã£o";
+$lang['to'] = "Para";
+$lang['subject'] = "Assunto";
+$lang['message'] = "Mensagem";
+$lang['send'] = "Enviar";
+$lang['mail_to'] = "De Campo Ã© Necessã¡rio.";
+$lang['mail_valid'] = "De Campo Deve Conter Um Vã¡lidos E-mail Endereã§o.";
+$lang['mail_subject'] = "O Assunto Campo Ã© Necessã¡rio.";
+$lang['mail_success'] = "E-mail Enviar Com Ãªxito,";
+$lang['mail_error'] = "Oops, E-mail Nã£o Envie,";
+$lang['instruction_to'] = "Para";
+$lang['instruction_subject'] = "Assunto";
+$lang['instruction_message'] = "Mensagem";
+$lang['instruction_instructionID'] = "Instruã§ã£o Id";
+$lang['instruction_data_not_found'] = "Don't Tem Qualquer Dados.";
+$lang['instruction_permissionmethod'] = "Mã©todo De Nã£o Permitidos";
+$lang['instruction_permission'] = "Permissã£o Nã£o Permitidos";

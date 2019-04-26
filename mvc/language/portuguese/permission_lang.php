@@ -1,0 +1,14 @@
+<?php
+
+$lang['panel_title'] = "Permissã£o";
+$lang['slno'] = "#";
+$lang['action'] = "Aã§ã£o";
+$lang['permission_add'] = "Adicionar";
+$lang['permission_view'] = "Visualizar";
+$lang['permission_edit'] = "Editar";
+$lang['permission_delete'] = "Apagar";
+$lang['select_usertype'] = "Escolha Papel";
+$lang['permission_select_usertype'] = "Escolha Papel";
+$lang['permission_table'] = "Permissãµes";
+$lang['module_name'] = "Mã³dulo Nome";
+$lang['module_description'] = "Mã³dulo Descriã§ã£o";

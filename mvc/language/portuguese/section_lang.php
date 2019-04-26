@@ -1,0 +1,21 @@
+<?php
+
+$lang['panel_title'] = "Seã§ã£o";
+$lang['add_title'] = "Adicionar Um Seã§ã£o";
+$lang['slno'] = "#";
+$lang['section_name'] = "Seã§ã£o";
+$lang['section_category'] = "Categoria";
+$lang['section_capacity'] = "Capacidade";
+$lang['section_classes'] = "Classe";
+$lang['section_department'] = "Departamento";
+$lang['section_teacher_name'] = "Professor Nome";
+$lang['section_note'] = "Nota";
+$lang['action'] = "Aã§ã£o";
+$lang['section_select_class'] = "Selecione Classe";
+$lang['section_select_department'] = "Escolha Departamento De";
+$lang['section_select_teacher'] = "Escolha Professor";
+$lang['view'] = "Visualizar";
+$lang['edit'] = "Editar";
+$lang['delete'] = "Apagar";
+$lang['add_section'] = "Adicione Seã§ã£o";
+$lang['update_section'] = "Atualizaã§ã£o Seã§ã£o";

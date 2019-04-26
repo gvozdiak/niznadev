@@ -1,0 +1,18 @@
+<?php
+
+$lang['panel_title'] = "Notificaã§ã£o";
+$lang['add_title'] = "Adicionar Um De Notificaã§ã£o";
+$lang['slno'] = "#";
+$lang['alert_title'] = "Tipo";
+$lang['alert_itemname'] = "Item De Nome";
+$lang['alert_itemID'] = "Itemid";
+$lang['alert_notice_permission'] = "Aviso De Permissã£o Ã© Negar";
+$lang['alert_mark_permission'] = "Marca De Permissã£o Ã© Negar";
+$lang['alert_message_permission'] = "Mensagem De Permissã£o Ã© Negar";
+$lang['alert_event_permission'] = "Evento De Permissã£o Ã© Negar";
+$lang['alert_holiday_permission'] = "Fã©rias De Permissã£o Ã© Negar";
+$lang['action'] = "Aã§ã£o";
+$lang['edit'] = "Editar";
+$lang['delete'] = "Apagar";
+$lang['add_alert'] = "Adicione Alerta";
+$lang['update_alert'] = "Que Contenham As Ãšltim Alerta";

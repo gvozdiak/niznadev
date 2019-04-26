@@ -1,0 +1,162 @@
+body {
+	font-family: 'helvetica';
+	font-size:12px;
+	color:#707478;
+}
+
+p {
+	margin: 2px;
+}
+
+table {
+	width:100%; 
+	border-spacing:0px;
+	font-size: 10px;
+	padding: 0px;
+	border-left: 1px solid #ddd	;
+	border-right: 1px solid #ddd	;
+	border-top: 1px solid #ddd	;
+}
+
+th {
+	font-weight: 400;
+	border-bottom: 1px solid #ddd;
+	font-size: 16px;
+	padding: 6px 0px
+}
+
+td {
+	border-bottom: 0.1px solid #ddd;
+	padding:6px 12px;
+}
+
+.logo{ 
+	width:50px;
+	height:50px;
+	text-align:center;
+}
+
+.title{
+	font-size: 15px
+}
+
+.title-desc {
+	font-size: 12px
+}
+
+.reportPage-header {
+	text-align: center;
+}
+
+.pull-left { 
+	float: left; 
+	text-align: left;
+	width: 48%;
+	margin: 0px;
+	padding: 10px 0px;
+}
+
+.pull-right {
+	float: right; 
+	text-align: left;
+	width: 48%;
+	margin: 0px;
+	padding: 10px 0px;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.footer {
+	padding-top: 10px;
+	text-align: center;
+}
+
+.flogo {
+	width: 30px;
+	height: 30px;
+}
+
+.copyright {
+	font-size: 10px
+}
+
+.notfound{
+	padding: 20px 0px;
+	text-align:center;
+	border:1px solid #ddd;
+}
+
+.exam_info {
+	width: 48%;
+	float: left;
+	margin-right: 4%;
+	border: 1px solid #ddd; 
+	border-left: 2px solid #000;
+}
+
+.student_info {
+	width: 48%;
+	float: right;
+	border: 1px solid #ddd; 
+	border-left: 2px solid red;
+}
+
+.text-blue {
+	color: #0073b7 !important;
+}
+
+.exam_info div table {
+	margin: 15px;
+}
+
+.exam_info div h3 {
+	background-color: #eaeaec !important;
+	margin: 0px;
+	padding: 15px 0px;
+	padding-left: 12px;
+}
+
+.footer_info {
+	width:100%;
+	margin-top: 15px;
+	padding-top: 5px;
+	border-top: 1px solid #ddd;
+}
+
+
+.student_info div h3 {
+	background-color: #eaeaec !important;
+	margin: 0px;
+	padding: 15px 0px;
+	padding-left: 12px;
+}
+
+.panel {
+	margin: 15px;
+}
+
+.profile-db-head {
+
+	background: #C24984;
+	text-align: center;
+}
+
+.border_image {
+	margin-top: 10px;
+}
+
+.profile-image{
+	width: 50px !important;
+	height: 50px !important;
+	text-align: center;
+	border: 2px solid #ddd;
+}
+
+.profile-db-head h1{
+	margin: 10px;
+	line-height: 20px;
+	font-size: 20px;
+	color: #fff;
+}

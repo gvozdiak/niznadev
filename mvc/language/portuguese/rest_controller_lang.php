@@ -1,0 +1,14 @@
+<?php
+
+$lang['text_rest_invalid_api_key'] = "Invã¡lido Api Chave %25s";
+$lang['text_rest_invalid_credentials'] = "Invã¡lido Credenciais";
+$lang['text_rest_ip_denied'] = "Ip Negado";
+$lang['text_rest_ip_unauthorized'] = "Ip Nã£o Autorizado";
+$lang['text_rest_unauthorized'] = "Nã£o Autorizado";
+$lang['text_rest_ajax_only'] = "Sã³ Ajax Pedidos Sã£o Permitidos";
+$lang['text_rest_api_key_unauthorized'] = "Este Api Chave Ã© Nã£o Tem Acesso A A Pedido Controlador";
+$lang['text_rest_api_key_permissions'] = "Este Api Chave Ã© Nã£o Tem Suficiente Permissãµes";
+$lang['text_rest_api_key_time_limit'] = "Este Api Chave Jã¡ Chegou A Vez Limite Para Este Mã©todo";
+$lang['text_rest_ip_address_time_limit'] = "Este Ip Endereã§o Jã¡ Chegou A Vez Limite Para Este Mã©todo";
+$lang['text_rest_unknown_method'] = "Desconhecido Mã©todo";
+$lang['text_rest_unsupported'] = "Sem Suporte Protocolo De";

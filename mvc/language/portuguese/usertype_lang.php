@@ -1,0 +1,11 @@
+<?php
+
+$lang['panel_title'] = "Funã§ã£o";
+$lang['add_title'] = "Adicionar Um Papel";
+$lang['slno'] = "#";
+$lang['usertype_usertype'] = "Funã§ã£o";
+$lang['action'] = "Aã§ã£o";
+$lang['edit'] = "Editar";
+$lang['delete'] = "Apagar";
+$lang['add_usertype'] = "Adicione Papel";
+$lang['update_usertype'] = "Atualizaã§ã£o De Papel";

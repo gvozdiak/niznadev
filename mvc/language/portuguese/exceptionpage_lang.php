@@ -1,0 +1,5 @@
+<?php
+
+$lang['panel_title'] = "Exceã§ã£o Pã¡gina";
+$lang['exceptionpage_message1'] = "Vocãª Sã£o Nã£o Autorizados Para Acessar Qualquer Tipo De Dados";
+$lang['exceptionpage_message2'] = "Por Favor, Contacto Com De Administrador";
